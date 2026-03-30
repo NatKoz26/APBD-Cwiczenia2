@@ -1,0 +1,21 @@
+# Katalogi kompilacji
+bin/
+obj/
+# Pliki ustawień użytkownika
+*.user
+*.suo
+# Katalog pakietów NuGet (przywracane automatycznie)
+packages/
+# Pliki IDE
+.vs/
+.idea/
+*.swp
+# Sekrety i konfiguracja lokalna
+appsettings.Development.json
+*.pfx
+Strona 52 z 164
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+#przekopiowane z wykładu
